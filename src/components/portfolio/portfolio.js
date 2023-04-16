@@ -34,7 +34,7 @@ function Portfolio() {
           <div className="portfolio__item">
             <img src={projectImage3} alt="Project 3" />
             <h3 className="portfolio__item-title"> Ecommerce website</h3>
-            <p className="portfolio__item-description">This project i am working to develope an e-commerce website for my mother and sister, it is still currently a work in progress but you can see the attached code and most of the functionality eventually
+            <p className="portfolio__item-description">This project i am worked on and built when i was in class for Zero To Mastery bootcamp. my goal is to develope an e-commerce website for my mother and sister, it is still currently a work in progress but you can see the attached code and most of the functionality eventually
             you will be able to see art work and knickknacks for sale. i have used mostly JavaScript and React to build this out.</p>
             <a href="https://cool-mousse-e6a295.netlify.app/" className="portfolio__item-link">View Site</a>
           </div>
