@@ -62,6 +62,16 @@ function About() {
           4. updating my camper rental website making it more modern and sleek
 
         </div>
+
+      <div className="about__point">
+          5. chat gpt function to automatically copy paste your conversation log and save it to a notion folder. i use notion to keep track of everything so this has been super useful for me. 
+          
+        </div>
+
+       <div className="about__point">
+          6. a linked in automation tool that automatically applies to jobs with in a certain requirement and job type. help speed up the applying process 
+          
+        </div>
         <button className="about__resume-link" onClick={handleDownloadClick}>Download My Resume, do it i dare you :D</button>
         {showPopup && (
           <div className="about__popup">
