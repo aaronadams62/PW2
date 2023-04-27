@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './about.css';
 import profileImage from '../../photos/aaron_adams_fullstack_full_stack_engineer_react_software_developer.png.jpg';
-import resumeFile from './aaron adams fullstackengineer full_stack_engineer_software_developer;
+import resumeFile from './aaron adams fullstackengineer full_stack_engineer_software_developer';
 
 function About() {
   const [showPopup, setShowPopup] = useState(false);
