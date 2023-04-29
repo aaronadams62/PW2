@@ -10,7 +10,7 @@ function About() {
     setShowPopup(true);
     const link = document.createElement('a');
     link.href = resumeFile;
-    link.download = 'aaron adams fullstackengineer full_stack_engineer_software_developer.docx';
+    link.download = 'aaron adams fullstackengineer full_stack_engineer_software_developer';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
